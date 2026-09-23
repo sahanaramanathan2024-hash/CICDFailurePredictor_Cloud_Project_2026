@@ -1,2 +1,6 @@
 venv/
 .venv/
+dataset/raw/
+!dataset/processed/
+
+!dataset/processed/clean_builds.csv
