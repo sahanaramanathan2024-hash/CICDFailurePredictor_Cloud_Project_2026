@@ -1,0 +1,8 @@
+vfastapi==0.110.0
+uvicorn==0.28.0
+boto3==1.34.69
+xgboost==2.0.3
+joblib==1.3.2
+pydantic==2.6.4
+pandas==2.1.4
+openpyxl==3.1.2
